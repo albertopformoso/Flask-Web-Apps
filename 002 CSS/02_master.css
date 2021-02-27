@@ -1,0 +1,20 @@
+/* body{
+    background: url(https://images4.alphacoders.com/667/thumb-1920-667236.jpg);
+    background-repeat: no-repeat;
+} */
+
+div{
+    background: cadetblue;
+    border:#00ff806e;
+    border-width: 2px /*thick*/;
+    border-style: dotted;
+}
+
+p{
+    color:rgb(231, 35, 21)
+}
+
+span{
+    background: rgb(251, 255, 0);
+    color: black;
+}
