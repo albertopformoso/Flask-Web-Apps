@@ -16,4 +16,4 @@ def puppy(name):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True)  # <- this will show you the traceback on the browser
